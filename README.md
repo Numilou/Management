@@ -1,4 +1,4 @@
-ё# QA Documentation Pipeline
+# QA Documentation Pipeline
 
 Welcome to the QA Documentation section! 🎮
 
