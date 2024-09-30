@@ -1,6 +1,6 @@
 ## QA Documentation Pipeline
 
-Welcome to the QA Documentation section! 🎮
+**Welcome to the QA Documentation section! 🎮**
 
 Here you'll find a collection of structured and organized documentation used to ensure the quality and stability of software products throughout the development lifecycle. This section includes:
 
