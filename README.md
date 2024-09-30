@@ -23,8 +23,7 @@ Welcome to the QA Documentation section!
 
 [Go here to view the test cases](https://www.notion.so/Test-cases-s-3c810a69aa5c44f5bd4db37cf61ed1a0?pvs=4)
 
-
-> > But I have to inform you that access to these documents is limited to commenting rights!⭐
+> But I have to inform you that access to these documents is limited to commenting rights!⭐
 
 
 <h4 align="center"> Enjoy reading it!</h4>
