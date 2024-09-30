@@ -25,6 +25,6 @@ Welcome to the QA Documentation section!
 
 > But I have to inform you that access to these documents is limited to commenting rights!⭐
 
+*Thanks for making it to the end! 🕊️
 
-<h4 align="center"> Enjoy reading it!</h4>
-    </p>
+Regards, Ivanova D.A.*
