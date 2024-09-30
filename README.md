@@ -15,9 +15,12 @@ Welcome to the QA Documentation section!
 + Requirements specifications used throughout the testing lifecycle;
 + Requirements specifications used throughout the testing lifecycle and etc.
 
-> But I have to inform you that access to these documents is limited to commenting rights!⭐
+
 
 > You also need to make a request for access to the space ⭐
+[Go here for checklists](https://www.notion.so/Chek-list-s-8aaabcfe54c34c9c85da4ac7b0648fc5?pvs=4)
+
+> > But I have to inform you that access to these documents is limited to commenting rights!⭐
 
 
 <h4 align="center"> Enjoy reading it!</h4>
