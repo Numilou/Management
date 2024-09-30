@@ -15,5 +15,8 @@ Welcome to the QA Documentation section!
 + Requirements specifications used throughout the testing lifecycle;
 + Requirements specifications used throughout the testing lifecycle and etc.
 
+> But I have to inform you that access to these documents is limited to commenting rights!
+
+
 <h4 align="center"> Enjoy reading it!</h4>
     </p>
