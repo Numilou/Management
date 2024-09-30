@@ -4,8 +4,8 @@
 
 Here you'll find a collection of structured and organized documentation used to ensure the quality and stability of software products throughout the development lifecycle. This section includes:
 
+- **Test Cases**
 - **Check-Lists** 
-- **Test Cases** 
 - **Test Plans**  
 - **Test Classification**   
 - **Requirements Specifications** 
