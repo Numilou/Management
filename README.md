@@ -12,11 +12,9 @@ Welcome to the QA Documentation section!
 + Test-Cases;
 + Test-Plans;
 + Test classification;
-+ Requirements specifications used throughout the testing lifecycle and etc.
++ Requirements specifications used throughout the testing lifecycle
 
 
-
-> You also need to make a request for access to the space ⭐
 
 [Go here for check-lists](https://www.notion.so/Che-k-list-s-8aaabcfe54c34c9c85da4ac7b0648fc5?pvs=4)
 
