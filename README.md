@@ -13,7 +13,7 @@ Here you'll find a collection of structured and organized documentation used to 
 
 ### Documentation Access
 
-Please note that access to these documents is **limited to commenting rights only**. 🌟 This allows for collaborative feedback and suggestions to improve the testing process. If you need full access, please submit a request for further permissions.
+**Please note that access to these documents is **limited to commenting rights only**. 🌟 This allows for collaborative feedback and suggestions to improve the testing process. If you need full access, please submit a request for further permissions.**
 
 - [Click here to access Check-Lists](#)  
 - [Click here to view Test Cases](#)
