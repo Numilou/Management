@@ -17,7 +17,7 @@ Here you'll find a collection of structured and organized documentation used to 
 
 - [Click here to access Check-Lists](#)  
 - [Click here to view Test Cases](#)
-- [Click here to view(https://www.notion.so/Onboarding-system-111a2a479a3c80ed83adf5a6bc55743c?pvs=4)
+- [Click here to view](https://www.notion.so/Onboarding-system-111a2a479a3c80ed83adf5a6bc55743c?pvs=4)
 
 ---
 
