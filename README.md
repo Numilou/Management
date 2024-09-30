@@ -12,7 +12,6 @@ Welcome to the QA Documentation section!
 + Test-Cases;
 + Test-Plans;
 + Test classification;
-+ Requirements specifications used throughout the testing lifecycle;
 + Requirements specifications used throughout the testing lifecycle and etc.
 
 
